@@ -18,6 +18,3 @@ This project helps users efficiently **record, manage, and analyze their daily e
 ---
 
 ## 🖼️ Screenshots
-
-> Add your actual screenshot files in the `screenshots/` folder.  
-> Replace the image filenames below with yours (e.g., `home.png`, `add_expense.png`).
